@@ -8,3 +8,6 @@
    * to build:      make apk
    * to install:    make install
    * to run on all: make runa
+   
+* Tip
+  * check your route server does support multicast or not
